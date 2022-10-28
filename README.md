@@ -24,4 +24,4 @@ Ej.- cd ../../
 - 06-Intercambia (```cd assignments/06-Intercambia```)
 - 07-Promedio (```cd assignments/07-Promedio```)
 - 08-Hipotenusa (```cd assignments/08-Hipotenusa```)
-- 09-Hipotenusa (```cd assignments/09-Distancia```)
+- 09-Distancia (```cd assignments/09-Distancia```)
